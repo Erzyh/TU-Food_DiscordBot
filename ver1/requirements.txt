@@ -1,0 +1,7 @@
+discord
+discord-py-slash-commands
+BeautifulSoup
+requests
+json
+datetime
+schedule
