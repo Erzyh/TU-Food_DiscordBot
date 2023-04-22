@@ -1,7 +1,15 @@
 # 동명대학교 학식 알리미
 
-Current Version: 1
+Project Name: TU-Food_Discord Bot<br>
+Project Period: 2023-04-22 23:09 ~ 2023-04-22 23:26<br>
+Project Team: Erzyh<br><br>
 
+Current Version: 1<br>
+
+
+
+<h2>Function</h2>
+1. !학식 명령어를 통한 학식 정보 확인<br><br>
 
 <h2>To-Do List</h2>
 1. discord-py-slash-command Module 오류 해결하기<br>
